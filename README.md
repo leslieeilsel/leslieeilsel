@@ -15,6 +15,7 @@ class Me
         PHP::class,
         LARAVEL::class,
         VUE::class,
+        MYSQL::class,
     ];
 
     const LEARNING = ['Golang', Docker];
