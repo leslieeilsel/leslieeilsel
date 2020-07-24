@@ -18,7 +18,7 @@ class Me
         MYSQL::class,
     ];
 
-    const LEARNING = ['Golang', Docker];
+    const LEARNING = ['Golang', 'Docker'];
 
     const TOOLS = [
         'phpstorm', 'vscode', 'smartgit', 'typora', 'postman', 'navicat', 'windows terminal'
