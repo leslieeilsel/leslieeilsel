@@ -24,6 +24,6 @@ class Me
         'phpstorm', 'vscode', 'smartgit', 'typora', 'postman', 'navicat', 'windows terminal'
     ];
 
-    const CURRENT_FOCUS = 'https://github.com/leslieeilsel/laravel-next';
+    const CURRENT_FOCUS = 'https://github.com/leslieeilsel/laravue-next';
 }
 ```
