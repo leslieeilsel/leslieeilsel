@@ -1,29 +1,12 @@
-### Hi I‘m Leslie Lau 👋
+<p align="center">
+ 😄
+<br/>
+<br/>
+<samp>
+ Don’t forget.<br>
+Always, somewhere, someone is fighting for you.<br/>
+As long as you remember her, you are not alone.<br/><br/>
+ </samp>
+</p>
 
-
-```php
-
-namespace About;
-
-class Me
-{
-    const POSITION = 'Software Engineer';
-
-    const EMAIL = 'leslieliuxing@gmail.com';
-
-    const SKILLS = [
-        PHP::class,
-        LARAVEL::class,
-        VUE::class,
-        MYSQL::class,
-    ];
-
-    const LEARNING = ['Golang', 'Docker'];
-
-    const TOOLS = [
-        'phpstorm', 'vscode', 'smartgit', 'typora', 'postman', 'navicat', 'windows terminal'
-    ];
-
-    const CURRENT_FOCUS = 'https://github.com/leslieeilsel/laravue-next';
-}
-```
+![](https://visitor-badge.glitch.me/badge?page_id=leslieeilsel)
