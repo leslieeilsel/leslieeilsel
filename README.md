@@ -8,4 +8,3 @@
         As long as you remember her, you are not alone.<br /><br />
     </samp>
 </p>
-![](https://visitor-badge.glitch.me/badge?page_id=leslieeilsel)
